@@ -1,7 +1,7 @@
 # Introduction
 - This is a clone BBC website
 - For website display, please go to: https://jenniengi.github.io/clonebbc/
-- For code without bundle, please go to: 
+- For code without bundle, please go to: https://github.com/JennieNgi/clonebbccode
 - The purpose is to show skills in HTML, CSS, JavaScript
 
 ## Code Explaination
@@ -10,3 +10,4 @@
 
 ## Credit/Acknowledgment
 - Images and contents by BBC.com
+- Disclaimer:  I do not own any of the news photos and contents. All copyrights belong to their original owners. No copyright infringement intended.
