@@ -1,5 +1,5 @@
 # Introduction
-- This is a clone BBC website
+- This is a clone BBC website landing page
 - For website display, please go to: https://jenniengi.github.io/clonebbc/
 - For code without bundle, please go to: https://github.com/JennieNgi/clonebbccode
 - The purpose is to show skills in HTML, CSS, JavaScript
@@ -9,5 +9,6 @@
 - Media Queries is added for responsive design
 
 ## Credit/Acknowledgment
-- Images and contents by BBC.com
+- All images used from License-free Images Website https://www.pexels.com/
+- Images are not related to the content
 - Disclaimer:  I do not own any of the news photos and contents. All copyrights belong to their original owners. No copyright infringement intended.
