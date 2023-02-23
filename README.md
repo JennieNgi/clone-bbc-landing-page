@@ -1,7 +1,7 @@
 # Introduction
 - This is a clone BBC website landing page
-- For website display, please go to: https://jenniengi.github.io/clonebbc/
-- For code without bundle, please go to: https://github.com/JennieNgi/clonebbccode
+- For website demo, please go to: https://jenniengi.github.io/clone-bbc-landing-page/
+- For code without bundle, please go to: https://github.com/JennieNgi/clone-bbc-landing-page-code
 - The purpose is to show skills in HTML, CSS, JavaScript
 
 ## Code Explaination
