@@ -1,3 +1,5 @@
+![BBC](https://user-images.githubusercontent.com/75710628/223285507-85a2f76a-bcaf-434f-885d-477c1cb1c0e9.png)
+
 # Introduction
 - This is a clone BBC website landing page
 - For website demo, please go to: https://jenniengi.github.io/clone-bbc-landing-page/
